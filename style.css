@@ -133,6 +133,10 @@ section{
   max-width: 800px;
 }
 
+#professional-challenges img{
+   width: 100%;
+}
+
 footer{
   padding: 60px 0;
   text-align: center;
